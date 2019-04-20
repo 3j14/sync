@@ -2,8 +2,7 @@
 Simple macOS tray application to syncronize a folder using `rsync`.
 
 This might not be the most elegant way to backup files, but it's simple and it works.
-
-Using a simple bash script, this swift application simply provides an interface to controll `sync_files.sh`
+Using a small bash script, this swift application just provides an interface to controll `sync_files.sh`.
 
 
 ## Setup
@@ -23,7 +22,7 @@ You might want to change the text for the menu items in the `MainMenu.xib` file 
 
 ## License
 
-The white refresh icon is made by Cole Bemis and from the awesome (feathericons)[https://feathericons.com/] icon set, released under the MIT License.
+The white refresh icon is made by Cole Bemis and is part of the awesome [feathericons](https://feathericons.com/) icon set, released under the MIT License.
 
 
 Copyright 2019 Jonas Drotleff <jonas.drotleff@gmail.com>
